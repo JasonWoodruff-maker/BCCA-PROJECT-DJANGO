@@ -1,0 +1,19 @@
+.hubpage {
+  text-align: center;
+}
+.list{
+    display: flex;
+  justify-content: space-evenly;
+  width: 80vw;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica;
+  font-size: 10pt;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  padding-bottom: 40px;
+  letter-spacing: -0.008em;
+  text-rendering: optimizeLegibility;
+  row-gap: 12px;
+  column-gap: 16px;
+  padding-top: 30px;
+}

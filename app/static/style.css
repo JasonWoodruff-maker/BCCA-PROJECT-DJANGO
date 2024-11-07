@@ -1,5 +1,6 @@
 .hubpage {
   text-align: center;
+  background-color: lightblue;
 }
 .list{
     display: flex;
@@ -16,4 +17,8 @@
   row-gap: 12px;
   column-gap: 16px;
   padding-top: 30px;
+  background-color: white;
+}
+.page{
+  background-color: green;
 }
